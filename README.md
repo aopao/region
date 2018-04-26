@@ -11,7 +11,7 @@
 /*
  * Package Service Providers...
  */
-Cblink\Region\RegionServiceProvider::class,
+Aopao\Region\RegionServiceProvider::class,
 ```
 
 生成 migration 文件
