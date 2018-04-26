@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Cblink\Region;
+namespace Aopao\Region;
 
 
 class Region

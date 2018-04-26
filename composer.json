@@ -1,0 +1,25 @@
+{
+    "name": "aopao/region",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wujinyu",
+            "email": "Wujinyu.com"
+        }
+    ],
+    "require-dev": {
+        "laravel/framework": "5.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Aopao\\Region\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Aopao\\Region\\RegionServiceProvider"
+            ]
+        }
+    }
+}
